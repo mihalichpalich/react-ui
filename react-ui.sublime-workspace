@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"portfolio-item"
+			],
+			[
+				"co",
+				"consult"
+			],
+			[
+				"di",
+				"d-i\tdisplay: inline;"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"bdc",
+				"bdcl\tborder-collapse"
+			],
+			[
+				"bgc",
+				"bgc-t\tbackground-color: transparent;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/react-ui"
+	],
+	"file_history":
+	[
+		"/D/projects/es-project/index.html",
+		"/D/projects/es-project/src/generators-creating.js",
+		"/D/projects/es-project/src/generators.js",
+		"/D/projects/es-project/package.json",
+		"/D/projects/es-project/src/iterators.js",
+		"/D/projects/es-project/src/symbols.js",
+		"/D/projects/es-project/src/inheritance.js",
+		"/D/projects/es-project/src/destructuring.js",
+		"/D/projects/es-project/src/objects.js",
+		"/D/projects/es-project/src/index.js",
+		"/D/projects/es-project/src/for_of.js",
+		"/D/projects/es-project/src/async_await.js",
+		"/D/projects/es-project/src/promises.js",
+		"/D/projects/es-project/src/classes.js",
+		"/D/projects/es-project/src/strings.js",
+		"/D/projects/es-project/src/spread.js",
+		"/D/projects/es-project/src/destructuring_assignment.js",
+		"/D/projects/es-project/src/const.js",
+		"/D/projects/es-project/src/arrow_functions.js",
+		"/D/projects/es-project/built/index.js",
+		"/D/projects/es-project/built/math.js",
+		"/D/projects/es-project/src/math.js",
+		"/D/projects/es-project/src/let/let.js",
+		"/D/projects/es-project/built/let/let.js",
+		"/D/projects/es-project/.gitignore",
+		"/D/projects/react_course/css/main.css",
+		"/D/projects/react_course/index.html",
+		"/D/projects/epixx-coupon/js/dev/json.js",
+		"/D/projects/epixx-coupon/css/main.css",
+		"/D/projects/epixx-coupon/js/dev/data.json",
+		"/D/projects/epixx-coupon/index.html",
+		"/D/projects/epixx-coupon/js/dev/filters.js",
+		"/D/projects/epixx-coupon/js/dev/main.js",
+		"/C/Users/Михаил/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/D/projects/epixx-coupon/css/main.css.map",
+		"/D/projects/react_test/airports/src/App.js",
+		"/D/projects/react_test/airports/src/airports.css",
+		"/D/projects/react_test/airports/src/airports.js",
+		"/D/Мои документы/green_valley версии/epixx-green-valley-master (by vUdav)/src/form.html",
+		"/D/Мои документы/green_valley версии/epixx-green-valley-master (by vUdav)/src/index.html",
+		"/D/Мои документы/green_valley версии/epixx-green-valley-master (by vUdav)/build/index.html",
+		"/D/Мои документы/green_valley версии/Green-Valley-master (by danyarost)/index.html",
+		"/D/Мои документы/green_valley версии/Green-Valley-master (by danyarost)/css/style.css",
+		"/D/projects/green_valley/src/less/variables.less",
+		"/D/projects/green_valley_first/less/style.less",
+		"/D/projects/green_valley/src/fonts/font_fira-sans_woff2.css",
+		"/D/projects/green_valley/src/fonts/font_pt-sans_woff2.css",
+		"/D/projects/green_valley/src/fonts/font_pt-sans_woff.css",
+		"/D/projects/green_valley/src/fonts/font_fira-sans_woff.css",
+		"/D/projects/green_valley/src/fonts/font_opensans_woff.css",
+		"/D/projects/green_valley/src/fonts/font_opensans_woff2.css",
+		"/D/projects/green_valley_first/package.json",
+		"/D/Мои документы/green_valley версии/epixx-green-valley-master (by vUdav)/build/css/style.min.css",
+		"/D/Мои документы/green_valley версии/green__valley-master (by gessdead)/build/css/style.min.css",
+		"/D/projects/green_valley/less/bootstrap/bootstrap.less",
+		"/D/projects/green_valley/css/style.css",
+		"/D/Мои документы/green_valley версии/green__valley-master (by gessdead)/src/index.html",
+		"/D/projects/green_valley/css/style.min.css",
+		"/D/Мои документы/green_valley версии/green__valley-master (by gessdead)/src/css/style.min.css",
+		"/D/Мои документы/green_valley версии/Green-valley-master (by cotang)/build/css/style.min.css",
+		"/D/Мои документы/green_valley версии/green-valley-master (by Hisime)/build/css/style.min.css",
+		"/D/projects/green_valley/css/style.min.css.map",
+		"/D/projects/green_valley/less/variables.less",
+		"/D/projects/green_valley/less/blocks/promo-title.less",
+		"/D/projects/green_valley/less/blocks/block-text.less",
+		"/D/projects/green_valley/less/blocks/block-title.less",
+		"/D/projects/epic_fast_start/src/less/style.less",
+		"/D/projects/epic_fast_start/src/less/bootstrap/scaffolding.less",
+		"/D/projects/epic_fast_start/src/less/bootstrap/type.less",
+		"/D/projects/epic_fast_start/src/less/variables.less",
+		"/D/projects/epic_fast_start/package.json",
+		"/D/projects/epic_fast_start/Gruntfile.js",
+		"/D/projects/epic_fast_start/build/css/style.css",
+		"/D/projects/less-start/css/style.min.css",
+		"/D/Мои документы/green_valley версии/Green-valley-master (by if712)/less/styles.less",
+		"/D/projects/test/css/style.css",
+		"/D/projects/test/less/blocks/btn.less",
+		"/D/projects/test/less/style.less",
+		"/D/projects/test/less/variables.less",
+		"/C/Users/Михаил/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/projects/green_valley/index.html",
+		"/D/Мои документы/epic_fluger-master/index.html",
+		"/D/Мои документы/epic_fluger-master/rooms.html",
+		"/D/Мои документы/epic_fluger-master/js/script.js",
+		"/D/projects/fluger_pavlov/.gitignore",
+		"/D/projects/mongol_pavlov/index.html",
+		"/D/projects/epic-fluger/fluger/.gitignore",
+		"/D/projects/epic-fluger/fluger/index.html",
+		"/D/projects/epic-fluger/index.html",
+		"/D/Мои документы/projects/epic-fluger/fluger/.gitignore",
+		"/D/Мои документы/projects/epic-fluger/css/style.css",
+		"/D/Мои документы/projects/epic-fluger/fluger/index.html",
+		"/C/Users/Михаил/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Мои документы/projects/mongol_pavlov/js/live.js",
+		"/D/Мои документы/projects/mongol_pavlov/css/normalize.css",
+		"/D/Мои документы/projects/sp24_pavlov/css/normalize.css",
+		"/D/Мои документы/specteh/index.html",
+		"/D/Мои документы/projects/my-spetstekh/js/live.js",
+		"/C/Users/Михаил/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-ui.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boo",
+				"less\\bootstrap\\bootstrap.less"
+			],
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
